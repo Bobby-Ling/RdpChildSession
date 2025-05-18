@@ -9,7 +9,7 @@
 
 ## 说明
 
-[Devolutions/MsRdpEx](https://github.com/Devolutions/MsRdpEx.git)扩展了Windows的RDP客户端mstscex.exe, 功能非常完善, 支持在.rdp文件中以如下的方式配置扩展的属性.
+[Devolutions/MsRdpEx](https://github.com/Devolutions/MsRdpEx.git)扩展了Windows的RDP客户端mstscex.exe, 具备子会话的功能; 其功能非常完善, 支持在.rdp文件中以如下的方式配置扩展的属性.
 
 ```rdp
 ConnectToChildSession:i:1
