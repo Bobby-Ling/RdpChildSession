@@ -1,0 +1,9 @@
+*.log
+*.exe
+*.dll
+*.dump
+
+.vs/
+.vshistory/
+Debug/
+RdpChild*/
